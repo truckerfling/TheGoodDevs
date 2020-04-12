@@ -1,8 +1,8 @@
 ## About
 
-TL;DR we are the IT support for response efforts to the current COVID-19 pandemic in Singapore 💻 We understand that there are both short and long term effects from this pandemic. 
+TL;DR we are the IT support for response efforts to the current COVID-19 pandemic in Singapore 💻 
 
-We aim to partner with organized efforts to EITHER create new tech solutions to meet needs AND/OR enhance existing processes with tech to increase effectiveness. 
+We understand that there are both short and long term effects from this pandemic. Therefore, we aim to partner with organized efforts to EITHER create new tech solutions to meet needs AND/OR enhance existing processes with tech to increase effectiveness. 
 
 ## 3 steps to help Singapore's COVID-19 efforts with tech
 
