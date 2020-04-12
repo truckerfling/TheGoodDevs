@@ -18,9 +18,10 @@ While all initiatives are important in this time of crisis, we focus on helping 
 
 ## Ongoing projects
 
-| **Category**  | **Initiative**  | **Tech volunteers needed** | **Full project details**  | **Status**  |
-|---|---|---|---|---|
-| Senior citizens  | Bringing online content and interactions to isolated senior citizens during Circuit Breaker  | <ul> <li>Project Manager</li><li>Frontend</li><li>Tech buddies for 1:1 support to senior citizens</li> | [here](https://github.com/truckerfling/TheGoodDevs/projects/1) | <p style="color:#33cc33;">Recruiting</p> |
+* **Senior citizens:** Bringing online content and interactions to isolated senior citizens during Circuit Breaker
+  * **Status:** Recruiting
+  * **Volunteers needed:** Project Manager, Frontend Dev, Tech Buddies for senior citizens
+  * **Full project details:** [here](https://github.com/truckerfling/TheGoodDevs/projects/1)
   
 ## Contact
 
