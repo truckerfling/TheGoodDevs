@@ -26,7 +26,7 @@ The projects we work on are planned to be short to mid-term, with lasting impact
 
 ## Ongoing projects
 
-* 🧓 **Senior citizens:** Bringing online content and interactions to isolated senior citizens during Circuit Breaker
+* **Senior citizens:** Bringing online content and interactions to isolated senior citizens during Circuit Breaker
   * **Status:** Recruiting
   * **Volunteers needed:** Project Manager, Frontend Dev, Tech Buddies for senior citizens
   * **Full project details:** [here](https://github.com/truckerfling/TheGoodDevs/projects/1)
