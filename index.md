@@ -12,7 +12,7 @@ We understand that there are both short and long term effects from this pandemic
 
 ## What kind of efforts do you support?
 
-While all initiatives are important in this time of crisis, we focus on helping response efforts related to vulnerable groups (e.g. migrant workers, senior citizens, women and more) and those directly impacted by the virus (e.g. infected individuals and their families). This means we actively look to support such efforts - big or small, oprganization-run or community-initiated.
+While all initiatives are important in this time of crisis, we focus on helping response efforts related to vulnerable groups (e.g. migrant workers, senior citizens, women and more) and those directly impacted by the virus (e.g. infected individuals and their families). This means we actively look to support such efforts - big or small, organization-run or community-initiated.
 
 That said, we want to help where we can, so please don't hesitate to drop us a note with any effort related to this pandemic.
 
