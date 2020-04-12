@@ -33,4 +33,4 @@ The projects we work on are planned to be short to mid-term, with lasting impact
   
 ## Contact
 
-Do you have an effort that requires tech support? Please contact us directly at sarahthiamjiahui@gmail.com and elisha@techladies.co 
+Do you have an effort that requires tech support? Please contact us directly at sarahthiamjiahui@gmail.com and elisha@techladies.co ✍🏻
